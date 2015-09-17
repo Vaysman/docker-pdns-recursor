@@ -1,6 +1,6 @@
 # docker-pdns-recursor
 
-PowerDNS Recursor (logging endbled) inside docker container
+PowerDNS Recursor (logging enabled) inside docker container
 
 ### How to use
 
